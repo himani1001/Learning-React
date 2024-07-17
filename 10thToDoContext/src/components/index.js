@@ -1,0 +1,1 @@
+//getting all the component at one place and import and export

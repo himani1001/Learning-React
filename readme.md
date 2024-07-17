@@ -61,11 +61,11 @@ To run any of these applications locally, follow these steps:
    ```
 3. Install the dependencies:
    ```bash
-   npm install
+   npm i
    ```
 4. Start the application:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Contributing
